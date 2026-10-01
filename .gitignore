@@ -1,0 +1,9 @@
+# Kept local: receipts (payment details), third-party driver installers, private planning notes
+Bills/
+drivers/
+PROJECT-ARCHIVE.md
+
+# Generated / temporary
+tools/wiring_pdf.html
+build/
+*.tmp
